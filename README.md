@@ -1,10 +1,9 @@
 # Java OOP Concepts
 
 This project demonstrates core Object-Oriented Programming concepts in Java.
-## Object Creation
--local varibles
--instance varibles
+
 ## Concepts Covered
+- local and local varibles
 - Abstraction
 - Inheritance
 - Polymorphism
