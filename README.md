@@ -2,7 +2,7 @@
 
 This project demonstrates core Object-Oriented Programming concepts in Java.
 
-## Concepts Covered
+## Oops Concepts
 - local and local varibles
 - Abstraction
 - Inheritance
@@ -13,6 +13,12 @@ This project demonstrates core Object-Oriented Programming concepts in Java.
 - Try-Catch basics
 - Handling ArithmeticException
 - Default Exception handling by JVM
+## Arrays
+- 1D Arrays
+- 2D Arrays
+- Jagged Arrays
+- Enhanced for loop
+- ArrayIndexOutOfBoundsException
 
 ## Project Structure
 -com.naresh.oops.variables
@@ -20,6 +26,7 @@ This project demonstrates core Object-Oriented Programming concepts in Java.
 - com.naresh.oops.inheritance
 - com.naresh.oops.polymorphism
 -  com.naresh.exceptionhandling
+-  com.naresh.arrays
 
 ## Purpose
 To practice and understand OOP concepts in Java.
