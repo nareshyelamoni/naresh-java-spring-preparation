@@ -3,6 +3,7 @@
 This project demonstrates core Object-Oriented Programming concepts in Java.
 
 ## Concepts Covered
+- local and local varibles
 - Abstraction
 - Inheritance
 - Polymorphism
@@ -14,6 +15,7 @@ This project demonstrates core Object-Oriented Programming concepts in Java.
 - Default Exception handling by JVM
 
 ## Project Structure
+-com.naresh.oops.variables
 - com.naresh.oops.abstraction
 - com.naresh.oops.inheritance
 - com.naresh.oops.polymorphism
