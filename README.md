@@ -19,14 +19,21 @@ This project demonstrates core Object-Oriented Programming concepts in Java.
 - Jagged Arrays
 - Enhanced for loop
 - ArrayIndexOutOfBoundsException
+# Java String Concepts
+- SCP vs Heap
+- == vs equals()
+- intern() method
+- concat() vs '+' operator
+- String methods****
 
 ## Project Structure
--com.naresh.oops.variables
+- com.naresh.oops.variables
 - com.naresh.oops.abstraction
 - com.naresh.oops.inheritance
 - com.naresh.oops.polymorphism
--  com.naresh.exceptionhandling
+- com.naresh.exceptionhandling
 -  com.naresh.arrays
+-  com.naresh.string.part1
 
 ## Purpose
 To practice and understand OOP concepts in Java.
