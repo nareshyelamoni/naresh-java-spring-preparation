@@ -58,6 +58,7 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - `com.naresh.oops.abstraction`
 - `com.naresh.oops.inheritance`
 - `com.naresh.oops.polymorphism`
+- `com.naresh.innerclass`
 - `com.naresh.exceptionhandling`
 - `com.naresh.arrays`
 - `com.naresh.string.part1`
