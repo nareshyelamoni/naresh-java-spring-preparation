@@ -18,6 +18,12 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - Try-Catch basics
 - Handling ArithmeticException
 - Default Exception handling by JVM
+- Generic Exception Handling `(catch (Exception e))`
+- Multiple Catch Blocks
+- Exception Propagation
+- No Propagation `(Handled within method)`
+- Rethrow Exception `(throw)`
+- Finally Block
 
 ---
 
@@ -61,8 +67,7 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - `com.naresh.innerclass`
 - `com.naresh.exceptionhandling`
 - `com.naresh.arrays`
-- `com.naresh.string.part1`
-- `com.naresh.string.part2`
+- `com.naresh.string`
 
 ---
 
