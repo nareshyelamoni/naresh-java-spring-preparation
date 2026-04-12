@@ -24,6 +24,12 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - No Propagation `(Handled within method)`
 - Rethrow Exception `(throw)`
 - Finally Block
+- Try vs Finally return behavior
+- StackOverflowError `(recursion)`
+- Checked Exception `(Thread.sleep)`
+- Unchecked Exception `(ArithmeticException)`
+- Exception handling in method overriding
+- Nested try-catch-finally
 
 ---
 
