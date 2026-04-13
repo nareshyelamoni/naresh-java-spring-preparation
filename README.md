@@ -30,6 +30,8 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - Unchecked Exception `(ArithmeticException)`
 - Exception handling in method overriding
 - Nested try-catch-finally
+- Bank Application`(With and without Custom Exception)`
+- Driving License Application `(Custom Exception)`
 
 ---
 
