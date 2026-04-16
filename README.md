@@ -64,7 +64,16 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - Capacity handling (`default = 16`, growth formula)
 - `trimToSize()` method
 - `equals()` behavior (String vs StringBuffer)
-
+---
+## Java Collections Framework
+## List Implementations
+- ArrayList
+- LinkedList
+## Queue / Deque
+- ArrayDeque
+- PriorityQueue
+## Set Implementations
+- TreeSet
 ---
 
 ## Project Structure
@@ -76,6 +85,7 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - `com.naresh.exceptionhandling`
 - `com.naresh.arrays`
 - `com.naresh.string`
+- `com.naresh.collection`
 
 ---
 
