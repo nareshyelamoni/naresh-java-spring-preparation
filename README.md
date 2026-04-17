@@ -77,10 +77,11 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - TreeSet
 - HashSet
 - LinkedHashSet
+- CopyOnWriteArrayList
+## Traversal
 - Iterator
 - `iterator()`
 - ListIterator
-- CopyOnWriteArrayList
 ---
 
 ## Project Structure
