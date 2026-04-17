@@ -75,6 +75,12 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - PriorityQueue
 ## Set Implementations
 - TreeSet
+- HashSet
+- LinkedHashSet
+- Iterator
+- `iterator()`
+- ListIterator
+- CopyOnWriteArrayList
 ---
 
 ## Project Structure
