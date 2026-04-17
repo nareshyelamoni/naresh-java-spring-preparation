@@ -24,10 +24,15 @@ public class TreeSetDemo {
         System.out.println(ts.contains(75));
         System.out.println(ts.first());
         System.out.println(ts.ceiling(125));
+        System.out.println(ts.higher(125));
         System.out.println(ts.floor(100));
+        System.out.println(ts.lower(100));
         System.out.println(ts.getFirst());
         System.out.println(ts.getLast());
         System.out.println(ts);
+        System.out.println(ts.tailSet(75));
+        System.out.println(ts.headSet(75));
         System.out.println(ts.size());
+
     }
 }
