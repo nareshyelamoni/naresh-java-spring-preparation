@@ -89,6 +89,7 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 ## Project Structure
 - `com.naresh.oops.variables`
 - `com.naresh.oops.methodoverloading`
+- `com.naresh.encapsulation`
 - `com.naresh.oops.abstraction`
 - `com.naresh.oops.inheritance`
 - `com.naresh.oops.polymorphism`
