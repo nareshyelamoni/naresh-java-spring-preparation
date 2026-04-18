@@ -7,6 +7,8 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 ## OOP Concepts
 - Local and Instance Variables
 - MethodOverloadingCompiletime
+- Encapsulation
+- `this` keyword
 - Abstraction
 - Inheritance
 - Polymorphism
