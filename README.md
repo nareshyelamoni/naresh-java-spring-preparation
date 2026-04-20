@@ -84,6 +84,9 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - Iterator
 - `iterator()`
 - ListIterator
+## Legacy class
+- Vector
+## Generics
 ---
 
 ## Project Structure
