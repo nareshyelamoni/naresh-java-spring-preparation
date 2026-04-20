@@ -86,7 +86,10 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - ListIterator
 ## Legacy class
 - Vector
-## Generics
+## Generics Practice
+- Generics Basics
+- Wildcards `(?, extends, super)`
+- Generic Array Limitations
 ---
 
 ## Project Structure
