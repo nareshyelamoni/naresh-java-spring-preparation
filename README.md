@@ -90,6 +90,12 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - Generics Basics
 - Wildcards `(?, extends, super)`
 - Generic Array Limitations
+## Java Collections & Sorting Concepts
+- Collections Class `sort()` Method
+- `Comparator` Interface (using implements)
+- Inner Class
+- Lambda Expressions
+- `Comparable` Interface
 ---
 
 ## Project Structure
