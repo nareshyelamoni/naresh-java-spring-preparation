@@ -96,6 +96,15 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - Inner Class
 - Lambda Expressions
 - `Comparable` Interface
+## Java Map & HashMap
+- `HashMap`
+- `LinkedHashMap`
+- `Hashtable`
+- `TreeMap`
+## Passport Application
+- Stores user passport details using `HashMap<Integer, Passport>`
+- Retrieves user data based on ID input
+- Demonstrates efficient lookup using `get()` method
 ---
 ## Java Date & Time API Practice
 - `System.currentTimeMillis()`
