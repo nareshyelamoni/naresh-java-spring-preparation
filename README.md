@@ -97,7 +97,16 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - Lambda Expressions
 - `Comparable` Interface
 ---
-
+## Java Date & Time API Practice
+- `System.currentTimeMillis()`
+- `Date` Class (Legacy API)
+- `Calendar` & `GregorianCalendar`
+- TimeZone Handling
+- `java.time` Package (Modern API)
+  `LocalDate`, `LocalTime`, `LocalDateTime`
+  `ZonedDateTime`, `OffsetDateTime`, `OffsetTime`
+  `Instant`, `Period`, `Year`, `MonthDay`
+- `DateTimeFormatter` & `ChronoField`
 ## Project Structure
 - `com.naresh.oops.variables`
 - `com.naresh.oops.methodoverloading`
@@ -110,6 +119,7 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - `com.naresh.arrays`
 - `com.naresh.string`
 - `com.naresh.collection`
+- `com.naresh.timeapi`
 
 ---
 
