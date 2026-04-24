@@ -116,6 +116,21 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
   `ZonedDateTime`, `OffsetDateTime`, `OffsetTime`
   `Instant`, `Period`, `Year`, `MonthDay`
 - `DateTimeFormatter` & `ChronoField`
+---
+## Java Enum
+- `enum` Basics and Constants
+- `ordinal()` and `values()` Methods
+- Enum Constructors and Fields
+- Getter / Setter in Enums
+- Nested Enums
+- Enum Object Behavior
+## Annotation
+- Custom Annotations
+- `@Retention` and `@Target`
+- Runtime Access with Reflection
+- `getAnnotation()` Method Usage
+---
+
 ## Project Structure
 - `com.naresh.oops.variables`
 - `com.naresh.oops.methodoverloading`
@@ -129,6 +144,8 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - `com.naresh.string`
 - `com.naresh.collection`
 - `com.naresh.timeapi`
+- `com.naresh.enumDemo`
+- `com.naresh.annotationsDemo`
 
 ---
 
