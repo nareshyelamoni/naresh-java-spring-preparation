@@ -131,7 +131,16 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - Runtime Access with Reflection
 - `getAnnotation()` Method Usage
 ---
-
+## Java Multithreading Practice
+- Creating threads using `extends Thread`
+- Creating threads using `implements Runnable`
+- Difference between `start()` and `run()`
+- Main thread properties
+- Sequential vs concurrent execution
+- Thread coordination using `join()`
+- Synchronization with shared resources
+- One resource with multiple tasks
+- Real-world thread execution examples
 ## Project Structure
 - `com.naresh.oops.variables`
 - `com.naresh.oops.methodoverloading`
@@ -148,6 +157,7 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - `com.naresh.timeapi`
 - `com.naresh.enumDemo`
 - `com.naresh.annotationsDemo`
+- `com.naresh.multithreading`
 
 ---
 
