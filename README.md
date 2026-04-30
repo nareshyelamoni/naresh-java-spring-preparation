@@ -141,6 +141,11 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - Synchronization with shared resources
 - One resource with multiple tasks
 - Real-world thread execution examples
+- Thread synchronization
+- Shared resource management
+- Deadlock situations
+- Thread lifecycle and states
+- Daemon thread behavior in Java
 ## Project Structure
 - `com.naresh.oops.variables`
 - `com.naresh.oops.methodoverloading`
