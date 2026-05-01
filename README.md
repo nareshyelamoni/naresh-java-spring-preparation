@@ -146,6 +146,11 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - Deadlock situations
 - Thread lifecycle and states
 - Daemon thread behavior in Java
+- Creating threads using Thread class 
+- Shared resource handling 
+- Thread synchronization with synchronized
+- Inter-thread communication using wait() and notify()
+- Producer-Consumer Problem
 ## Project Structure
 - `com.naresh.oops.variables`
 - `com.naresh.oops.methodoverloading`
