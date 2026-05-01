@@ -1,4 +1,4 @@
-# Java OOP & String Concepts
+# Java Core practice
 
 This project demonstrates core Object-Oriented Programming concepts and detailed String handling concepts in Java.
 
