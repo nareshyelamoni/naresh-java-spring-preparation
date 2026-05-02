@@ -151,6 +151,9 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - Thread synchronization with synchronized
 - Inter-thread communication using wait() and notify()
 - Producer-Consumer Problem
+- Thread debugging basics 
+- Passing thread names using constructors 
+- Using lambda expressions in threads
 ## Project Structure
 - `com.naresh.oops.variables`
 - `com.naresh.oops.methodoverloading`
