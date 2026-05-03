@@ -154,6 +154,8 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - Thread debugging basics 
 - Passing thread names using constructors 
 - Using lambda expressions in threads
+- Object-Level Locking 
+- Class-Level Locking
 ## Project Structure
 - `com.naresh.oops.variables`
 - `com.naresh.oops.methodoverloading`
