@@ -156,6 +156,11 @@ This project demonstrates core Object-Oriented Programming concepts and detailed
 - Using lambda expressions in threads
 - Object-Level Locking 
 - Class-Level Locking
+## Java Stream API Practice
+- Stream API enables functional programming in Java using `stream()`
+- Streams do not modify the original collection
+- Supports method chaining (pipeline processing)
+- Improves readability and maintainability
 ## Project Structure
 - `com.naresh.oops.variables`
 - `com.naresh.oops.methodoverloading`
